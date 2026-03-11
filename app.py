@@ -400,7 +400,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     <div style="font-size: 11px; color: #64748B;">
-    <b>만든 사람:</b> MT Data<br>
+    <b>만든 사람:</b> 조영준<br>
     <b>산정 기준:</b> SW사업 대가산정 간이법<br>
     <b>FP당 단가:</b> 2026년 추정치<br>
     <b>보정계수:</b> SW진흥법 시행령 기준
